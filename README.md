@@ -21,3 +21,15 @@ The dashboard analyzes sales performance across:
 - Python (basic)
 
 ## 📂 Project Structure
+
+dashboard/ → Power BI dashboard (PDF)  
+data/ → Sales dataset (Excel)
+
+## 📊 Dataset
+The dataset includes the following fields:
+- OrderDate
+- Product
+- Category
+- Region
+- Quantity
+- UnitPrice
